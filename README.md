@@ -21,7 +21,7 @@
 ```
 {
   "whenNotCoding": [
-    {activity: 'cooking'}, 
+    {activity: 'cooking', 'running', 'gaming with friends'}, 
     {activity: 'Watching as many cheesy SciFi/horror movies as I can.'}
   ],
   "JustRecently": 'I taught Full Stack software development as an Instructor @ Fullstack Academy of Code.',
