@@ -20,9 +20,7 @@
 
 ```
 {
-  "whenNotCoding": [
-    {activity: 'cooking', 'running', 'gaming with friends'}, 
-    {activity: 'Watching as many cheesy SciFi/horror movies as I can.'}
+  "whenNotCoding": [ 'cooking', 'running', 'gaming with friends', 'Watching as many cheesy SciFi/horror movies as I can.'], 
   ],
   "JustRecently": 'I taught Full Stack software development as an Instructor @ Fullstack Academy of Code.',
   "Currently": 'working on cool new escape room puzzles using microcontrollers and sensors.',
