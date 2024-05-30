@@ -15,8 +15,8 @@
 
 ---
 
-* :computer: I am a software engineer that is addicted to learning and using technology to connect people.
-* :space_invader: Before becoming a software engineer I build an escape room business where i build original, hour long expereinces for customers. I wanted to expand what i could offer in these expereinces so I began learning as much as i could about tech (microcontrollers all the way to web development).
+* :computer: I am a software engineer who is addicted to learning and using technology to connect people.
+* :space_invader: Before becoming a software engineer I built an escape room business where I created original, hour-long experiences for customers. I wanted to expand what I could offer in these experiences so I began learning as much as I could about tech (microcontrollers all the way to web development).
 
 ```
 {
