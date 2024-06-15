@@ -6,7 +6,7 @@
 
 ---
 
-* :computer: I am a software engineer who is addicted to learning and using technology to connect people.
+* :computer: I am a software engineer who is always enthusiasticly learning and using technology to connect people.
 * :space_invader: Before becoming a software engineer I built an escape room business where I created original, hour-long experiences for customers. I wanted to expand what I could offer in these experiences so I began learning as much as I could about tech (microcontrollers all the way to web development).
 
 ```
