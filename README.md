@@ -6,6 +6,8 @@
 
 ---
 
+(<em>The images above we generated from my image API to splice stack logos together into one image and sent over a single GET request, <a href="https://www.stackimages.xyz" target="_blank">Check it out!</a> </em>)
+
 * :computer: I am a software engineer who is always enthusiasticly learning and using technology to connect people.
 * :space_invader: Before becoming a software engineer I built an escape room business where I created original, hour-long experiences for customers. I wanted to expand what I could offer in these experiences so I began learning as much as I could about tech (microcontrollers all the way to web development).
 
