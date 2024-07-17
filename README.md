@@ -26,5 +26,5 @@
 * <a href="https://www.linkedin.com/in/droge/" target="_blank"><img style="height:30px;" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
 
 
-**See my [portfolio](https://zacharyad.github.io/) for any about me and projects I'm coding away at!**
+**See my [portfolio]([https://zacharyad.github.io/](https://octopus-app-6s53x.ondigitalocean.app/)) for any about me and projects I'm coding away at!**
 
