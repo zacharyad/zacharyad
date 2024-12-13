@@ -2,7 +2,7 @@
 
 --- 
 
-![tech logos]( https://www.stackimages.xyz/l/css-html-javascript-postgresql-nodejs-npm-react-sequelize-typescript-webpack)
+![tech logos]( https://www.stackimages.xyz/l/webpack-css-html-javascript-postgresql-nodejs-npm-react-sequelize-typescript)
 
 ---
 
